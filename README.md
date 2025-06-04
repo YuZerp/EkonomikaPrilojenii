@@ -1,4 +1,4 @@
-# EkonomikaPrilojenii
+# Экономика приложений
 
 - git add README.md
 git commit -m "Добавлена ссылка на техническое задание в README"
