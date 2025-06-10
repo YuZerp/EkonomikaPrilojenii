@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    font-family: Georgia, serif;
+}
+
+header, footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+    background-color: #f9f9f9;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+
+main {
+    display: flex;
+    padding: 40px 60px;
+    gap: 20px;
+}
+
+.block {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+        
+h2 {
+   margin-top: 0;
+   color: #333;
+}
